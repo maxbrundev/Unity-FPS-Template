@@ -1,6 +1,8 @@
 # Unity-FPS-Template
 FPS Template
 
+![](Screens/RecoilDemo.gif)
+
 # Controller Features
 - FPS Character Controller based on Unity Character Controller Component
 - Walking / Running
