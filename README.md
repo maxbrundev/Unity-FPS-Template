@@ -39,3 +39,7 @@ FPS Template
 - Inverse kinematic arms
 - Improving Weapon Sway
 - Weapons Loadout View
+- Bullet penetration
+- Bullet drop
+- Bullet air Resistance
+- Weapon zeroing
